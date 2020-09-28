@@ -35,13 +35,13 @@ pip install requirements.txt
 
 To use this app, 2 terminals should be opened. Next 2 commands should be run in terminals:
 
-**First terminal:**
+**First terminal(for server):**
 ```
 python3 spotify_OOP.py server "" -p 5555
 ```
 Here "" represents the interface for server to accept incoming data and "-p" is for port number. In this example, port is 5555. If not mentioned, port selected by default is 4444.
 
-**Second terminal:**
+**Second terminal(for client):**
 ```
 python3 spotify_OOP.py client hostname -p 5555
 ```
