@@ -46,3 +46,5 @@ Here "" represents the interface for server to accept incoming data and "-p" is 
 python3 spotify_OOP.py client hostname -p 5555
 ```
 Here instead of "hostname", hostname of your local machine should be written. Default port to connect is 4444.
+
+To stop server, press Ctrl+C in server terminal.
