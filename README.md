@@ -28,7 +28,7 @@ git clone https://github.com/aydansheydayeva/spotify_udp_OOP
  Then install requirements to have all packets needed for this project:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
